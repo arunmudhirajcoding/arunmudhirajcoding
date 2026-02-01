@@ -17,10 +17,15 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunmudhirajcoding&label=Profile%20views&color=0e75b6&style=flat" alt="arunmudhirajcoding" /> </p>
+<p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunmudhirajcoding" alt="arunmudhirajcoding" /></a> </p>
+
+
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xkMG8waWZ1d3ZobnFpanFoZWJyM3J3bzBybzZ1bHo2endtZ3N3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp">
+
 - 🔭 I’m currently working on **team portfolio**
 
 - 🌱 I’m currently learning **react, tailwind, NLP, DSA**
@@ -47,25 +52,26 @@
 </p>
 
 <!-- GitHub Stats -->
-<p>
-  <picture align="left">
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=arunmudhirajcoding&show_icons=true&locale=en&layout=compact&theme=dark" 
-      media="(prefers-color-scheme: dark)" />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=arunmudhirajcoding&show_icons=true&locale=en&layout=compact&theme=light" 
-      alt="arunmudhirajcoding Top Languages" />
-  </picture>
-  <picture >
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=arunmudhirajcoding&show_icons=true&locale=en&theme=dark" 
-      media="(prefers-color-scheme: dark)" />
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=arunmudhirajcoding&show_icons=true&locale=en&theme=light" 
-      alt="arunmudhirajcoding Stats" />
-  </picture>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunmudhirajcoding&" alt="arunmudhirajcoding" />
+<p align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=arunmudhirajcoding&layout=compact&theme=dark"
+    width="400"
+  />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=arunmudhirajcoding&show_icons=true&theme=dark"
+    width="400"
+  />
 </p>
+
+
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=arunmudhirajcoding&theme=dark"
+    width="70%"
+  />
+</p>
+
 
 
 
