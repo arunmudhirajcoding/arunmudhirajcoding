@@ -12,7 +12,7 @@
 
 
 
-<h3 align="center">Aspiring AI Specialist | 3rd Year Student, Pursuing fullstack development | MERN Stack Developer | DSA Enthusiast on a Journey to Master Algorithms | Proficient in Python, React, and Tailwind CSS !</h3>
+<h3 align="center">Aspiring AI Specialist | 4th Year Student, Pursuing fullstack development | MERN Stack Developer | DSA Enthusiast on a Journey to Master Algorithms | Proficient in Python, React, Tailwind CSS, and in Agentic AI frameworks like Langchain and Langgraph !</h3>
 
 
 
